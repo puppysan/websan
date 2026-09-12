@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 1024 1024" fill="none">
+  <defs>
+    <linearGradient id="igGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FEDA75"/>
+      <stop offset="25%" stop-color="#FA7E1E"/>
+      <stop offset="50%" stop-color="#D62976"/>
+      <stop offset="75%" stop-color="#962FBF"/>
+      <stop offset="100%" stop-color="#4F5BD5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Fondo redondeado con degradado Instagram -->
+  <rect width="1024" height="1024" rx="265" fill="url(#igGrad)"/>
+
+  <!-- Cámara estilo Instagram -->
+  <rect x="240" y="240" width="544" height="544" rx="140"
+        fill="none" stroke="white" stroke-width="60"/>
+
+  <!-- Círculo central -->
+  <circle cx="512" cy="512" r="140"
+          fill="none" stroke="white" stroke-width="60"/>
+
+  <!-- Punto superior derecho -->
+  <circle cx="730" cy="294" r="40" fill="white"/>
+</svg>

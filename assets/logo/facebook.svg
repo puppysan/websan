@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 1024 1024" fill="none">
+  <!-- Fondo redondeado azul Facebook -->
+  <rect width="1024" height="1024" rx="265" fill="#1877F2"/>
+
+  <!-- Letra f de Facebook -->
+  <path
+    d="M680 512H590V820H460V512H400V400H460V330C460 246 496 180 620 180H700V292H640C600 292 590 316 590 348V400H700L680 512Z"
+    fill="white"
+  />
+</svg>

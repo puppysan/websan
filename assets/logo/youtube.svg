@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 1024 1024" fill="none">
+  <!-- Fondo redondeado rojo YouTube -->
+  <rect width="1024" height="1024" rx="265" fill="#FF0000"/>
+
+  <!-- Ícono de YouTube (play dentro de rectángulo) -->
+  <path
+    d="M512 220C512 220 240 220 178 238C145 248 118 274 108 308C88 372 88 512 88 512C88 512 88 652 108 716C118 750 145 776 178 786C240 804 512 804 512 804C512 804 784 804 846 786C879 776 906 750 916 716C936 652 936 512 936 512C936 512 936 372 916 308C906 274 879 248 846 238C784 220 512 220 512 220Z"
+    fill="white"
+  />
+
+  <!-- Triángulo de play -->
+  <path
+    d="M430 380L680 512L430 644V380Z"
+    fill="#FF0000"
+  />
+</svg>
